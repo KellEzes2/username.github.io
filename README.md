@@ -98,7 +98,7 @@ mesa-pro/
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/mesa-pro.git
+   git clone https://github.com/KellEze2/mesa-pro.git
    ```
 2. Abra a pasta no **VS Code** e use a extensão **Live Server** (*Open with Live Server*), ou abra o `index.html` no navegador.
 
